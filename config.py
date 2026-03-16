@@ -25,3 +25,4 @@ SUPABASE_ANON_KEY = os.getenv(
 
 SIGLIP_MODEL = "google/siglip-base-patch16-384"
 EMBEDDING_DIM = 768
+BATCH_SIZE = 50
